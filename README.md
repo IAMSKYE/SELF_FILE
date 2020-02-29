@@ -6,3 +6,5 @@ just a test repository
 我现在面临着一个不知道怎么开启另外一行的模式  
 
 我成功了么？
+哈哈，成功了 
+空格+enter
