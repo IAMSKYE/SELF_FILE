@@ -12,4 +12,6 @@ just a test repository
 空格+2enter.  
 
 2. 下个问题，怎么使用git？  
+[参考链接](https://blog.csdn.net/Aurora153/article/details/104338301)
 1）在终端 brew install git
+参考
