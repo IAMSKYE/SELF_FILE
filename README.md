@@ -1,5 +1,6 @@
 # hello-world
-just a test repository
-写些什么呢？感觉程序猿的世界，是一个很神奇的世界
-这是我第一次认真的学习怎么操作 github
-## 加油！！
+just a test repository 
+写些什么呢？神奇的世界
+
+## 这是一个markdown文档，可以记录文字相关的东西 
+
